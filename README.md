@@ -25,3 +25,6 @@ Disclaimer : This list is my personal opinion and i found this libraries very us
 :boom: Annyang - JS SpeechRecognition [more info](https://github.com/TalAter/annyang)
 
 :boom: SweetAlert2 - Beautiful Popup alert / Better Than SweetAlert 1 [more info](https://sweetalert2.github.io)
+
+:boom: Flatpicker - Beautiful Date Picker [more info](https://flatpickr.js.org/examples/)
+
