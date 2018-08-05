@@ -10,4 +10,4 @@ Disclaimer : This list is my personal opinion and i found this libraries very us
 
 :boom: Stisla - Free Bootstrap Admin Template [More info](https://stisla.multinity.com/)
 
-:boom TippyJS - A highly customizable vanilla JS tooltip & popover library [More info](https://atomiks.github.io/tippyjs/)
+:boom: TippyJS - A highly customizable vanilla JS tooltip & popover library [More info](https://atomiks.github.io/tippyjs/)
